@@ -52,7 +52,7 @@ Use the following `input params` to customize it for your use case:-
 |--------|--------|--------|
 | `COMMIT_MSG` | :zap: Update README with the recent activity | Commit message used while committing to the repo |
 | `MAX_LINES` | 5 | The maximum number of lines populated in your readme file |
-
+| `TARGET_FILE` | README.md | The file to insert recent activity into |
 
 ```yml
 name: Update README
